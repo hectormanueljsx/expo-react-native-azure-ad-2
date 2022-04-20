@@ -15,7 +15,7 @@
     "react-native-get-random-values": "^1.7.0"
   },
   "keywords": ["AzureAD", "Microsoft Account", "Microsoft Authentication", "React Native Authentication"],
-  "author": "Hector Manuel Santos Bautista <hectormanueldev@gmail.com>",
+  "author": "Hector Manuel Santos Bautista <hectormanueljsx@gmail.com>",
   "license": "MIT",
   "directories": {
     "lib": "lib"
