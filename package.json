@@ -8,13 +8,19 @@
     "react-native-get-random-values": "^1.7.0",
     "react-native-webview": "^11.13.0",
     "url": "^0.11.0",
-    "uuid": "^8.3.2"
+    "uuid": "^8.3.2",
+    "expo-constants": "~13.0.1"
   },
   "peerDependencies": {
     "react-native": "^0.60",
     "react-native-get-random-values": "^1.7.0"
   },
-  "keywords": ["AzureAD", "Microsoft Account", "Microsoft Authentication", "React Native Authentication"],
+  "keywords": [
+    "AzureAD",
+    "Microsoft Account",
+    "Microsoft Authentication",
+    "React Native Authentication"
+  ],
   "author": "Hector Manuel Santos Bautista <hectormanueljsx@gmail.com>",
   "license": "MIT",
   "directories": {
